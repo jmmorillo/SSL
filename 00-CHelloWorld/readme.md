@@ -2,7 +2,7 @@
 
 ## Contenido del TP
 
-En este directorio tenemos un programita en C que se llama ``hola``. También anunciamos la versión del compilador y la version de C que compila.
+En este directorio tenemos un programita en C que se llama ``hola.c``. También anunciamos la versión del compilador y la version de C que compila.
 
 Vamos a escribir en MINGW:
 
