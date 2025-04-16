@@ -21,7 +21,7 @@ Obtendremos:
 Hola Juan Manuel Morillo!
 ``
 
-Rediccionamos la salida a un archivo de texto:
+Redireccionamos la salida a un archivo de texto:
 ```
 ./hello.exe > output.txt
 ```
