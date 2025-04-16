@@ -25,4 +25,4 @@ Rediccionamos la salida a un archivo de texto:
 ```
 ./hello.exe > output.txt
 ```
-Automáticamente encontraremos en el repositorio ```output.txt```. Al abrirlo podremos ver que su contenido es: ``Hola Juan Manuel Morillo!``
+Encontraremos en el repositorio ```output.txt```. Al abrirlo podremos ver que su contenido es: ``Hola Juan Manuel Morillo!``
