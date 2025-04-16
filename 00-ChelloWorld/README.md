@@ -1,7 +1,8 @@
+Chequeamos la versión del compilador por consola:
 ```
 gcc --version
 ```
-Versión del compilador:
+Salida:
 
 ``
 gcc.exe (Rev3, Built by MSYS2 project) 13.2.0
